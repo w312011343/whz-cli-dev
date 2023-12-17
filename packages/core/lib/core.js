@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-module.exports = core;
+module.exports = cores;
 
-function core() {
-  return 'Hello from core';
+function cores() {
+  return "Hello from utils 222";
 }
