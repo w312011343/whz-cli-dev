@@ -3,5 +3,5 @@
 module.exports = cores;
 
 function cores() {
-  return "Hello from utils 333";
+  return "Hello from cores";
 }
