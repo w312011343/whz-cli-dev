@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/w312011343/whz-cli-dev/issues"
   },
-  "gitHead": "ad3a5328697e28cc1f7b90bf49b9ea76bf369ad0"
+  "gitHead": "77dbf68b8aa2c903e9e238bc05e803f7fe754f30",
+  "publishConfig": {
+    "access": "public"
+  }
 }
