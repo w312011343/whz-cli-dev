@@ -1,0 +1,30 @@
+{
+  "name": "@whz-cli-dev/utils",
+  "version": "0.0.6",
+  "description": "> TODO: description",
+  "author": "w312011343 <1217044974@qq.com>",
+  "homepage": "https://github.com/w312011343/whz-cli-dev#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w312011343/whz-cli-dev.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/w312011343/whz-cli-dev/issues"
+  },
+  "gitHead": "77dbf68b8aa2c903e9e238bc05e803f7fe754f30",
+  "publishConfig": {
+    "access": "public"
+  }
+}
